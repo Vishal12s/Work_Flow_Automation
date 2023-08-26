@@ -38,3 +38,10 @@ crucial for seamless operation. Here&#39;s how to do it:
 - Under &quot;System Variables,&quot; locate and select the &quot;Path&quot; variable, then click &quot;Edit.&quot;
 
 - Integrate the Graphviz Bin Directory:
+- Press &quot;New&quot; and input the path to the Graphviz bin directory (e.g., C:\Program
+Files\Graphviz\bin).
+- Click &quot;OK&quot; to close the windows. Kindly note that a system restart may be necessary to
+implement the changes effectively.
+
+With these preliminary steps completed, the automation code is poised to operate seamlessly,
+enabling you to generate intricate flowcharts effortlessly.
